@@ -1,0 +1,34 @@
+* { 
+    font-family: verdana;
+    padding: 0px;
+}
+
+body {
+    --tlo: #4C6464;
+    --text: #C5B358;
+    --ramka: #7F784E;
+    background-color: #4C6464;
+    color: var(--text);
+    animation: backgroundEffect 3s forwards;
+}
+
+.menu li {
+    margin-top: 6px;
+    padding: 10px;
+    display: inline-block;
+    border: solid 2px var(--ramka);
+    list-style-type: none;
+    width: 120px;
+    cursor: pointer;
+}
+
+.oMnie {
+    border: solid 3px var(--ramka);
+    width: 70%;
+    opacity: 0;
+    padding: 10px;
+}
+
+.nowa {
+    opacity: 1;
+}
