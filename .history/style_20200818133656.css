@@ -32,7 +32,7 @@ body {
 .metoda {
     border: solid 3px var(--ramka);
     width: 70%;
-    /* opacity: 0; */
+    opacity: 0;
     padding: 10px;
 }
 
