@@ -12,10 +12,6 @@ body {
     animation: backgroundEffect 3s forwards;
 }
 
-main {
-    position: relative;
-}
-
 .menu li {
     margin-top: 6px;
     padding: 10px;
@@ -47,7 +43,6 @@ main {
     width: 70%;
     opacity: 0;
     padding: 10px;
-    position: absolute;
 }
 
 .kontakt {
@@ -55,7 +50,6 @@ main {
     width: 70%;
     opacity: 0;
     padding: 10px;
-    position: absolute;
 }
 
 .nowa {

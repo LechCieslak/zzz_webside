@@ -34,5 +34,5 @@ g.addEventListener('click', e => {
   h.classList.toggle("nowa");
   b.classList.remove("nowa");
   d.classList.remove("nowa");
-  f.classList.remove("nowa");
+  b.classList.remove("nowa");
 });

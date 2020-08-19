@@ -12,10 +12,6 @@ body {
     animation: backgroundEffect 3s forwards;
 }
 
-main {
-    position: relative;
-}
-
 .menu li {
     margin-top: 6px;
     padding: 10px;
